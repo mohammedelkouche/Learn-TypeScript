@@ -75,9 +75,6 @@ function App() {
       {/* paass only the array of object with name and age */}
       <SayHelloArrayOnly arrayData={employee.arrayData} />
 
-    
-
-
     </>
   )
 }

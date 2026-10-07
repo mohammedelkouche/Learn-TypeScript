@@ -1,0 +1,1 @@
+// introduction of typescript why we use it what problem is fix and example

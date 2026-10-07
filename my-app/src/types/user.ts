@@ -23,3 +23,13 @@ export type Employee = {
         age: number
     } [];
 };
+
+// Employee array of object with name and age
+// example
+// let employee: Employee = {
+//     arrayData: [
+//         {name: "mohammed", age: 7},
+//         {name: "sara", age: 8},
+//         {name: "yassine", age: 9}
+//     ]
+// }
