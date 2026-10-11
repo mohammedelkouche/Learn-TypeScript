@@ -24,6 +24,7 @@ let arr3 = [12, "hello", true];
 // any : is a special type that opts out of type-checking, allowing a variable to hold any value and bypassing all compile-time type safety.
 let v = 10;
 v = "hello";
+console.log(arr2);
 // alert(x);
 // alert(strArr);
 // alert(v);

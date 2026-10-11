@@ -34,6 +34,11 @@ let arr3 : any [] = [12, "hello", true];
 let v : any = 10;
 v = "hello";
 
+
+
+console.log(arr2);
+
+
 // alert(x);
 // alert(strArr);
 // alert(v);
